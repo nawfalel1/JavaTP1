@@ -4,7 +4,7 @@ public String marque;
 public double prix;
 public Voiture() {
 	this.marque="BMW";
-	this.prix=450000.00;
+	this.prix=400000.00;
 }
 public String getMarque() {
 	return marque;
